@@ -9,5 +9,5 @@ The portfolio uses the following key features:
 *  Usage of Twitter Bootstrap framework for responsive web site development
 *  Usage of Java Script modals.
 
-Open *index.html* in the web browser.  
+Open [index.html](https://github.com/rakeshdhote/udacity-html-css-portfolio/blob/master/index.html) in the web browser.  
 Click the biggest image and voila the modal pops up!  
